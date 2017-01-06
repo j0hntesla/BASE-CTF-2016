@@ -1,0 +1,7 @@
+Web 3 Challenge
+++++++++++++++++
+It show hint as 'Cookies Sorry! You are not admin.. '.So I think it need to chage admin cookies.
+I convert 'admin' to md5 hash(21232f297a57a5a743894a0e4a801fc3) and replace in cookies content by Cookies Manager+ addon.
+Now refresh the page. Bingo!
+I got flag BCTF{Co0Kies_C@n_Be_Chang3}.
+
