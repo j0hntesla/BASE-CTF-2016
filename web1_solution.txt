@@ -1,0 +1,6 @@
+
+Web Challenge 1
+++++++++++++++++
+I searched on source-code.I found flag bottom of the source-code.
+Easy one !  
+BCTF{You_get_m3_lol.}
