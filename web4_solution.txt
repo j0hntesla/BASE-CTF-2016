@@ -1,0 +1,10 @@
+Web 4 Challenge
+++++++++++++++
+I found parameter 'page' on url.I think that might be File Inclusion.So I test by putting 'index' at the end of parameter.
+Like that /?page=index . Wow it working.So i decided to read source code.
+I use php filter- Base64 bypass method to read full source-code.
+https://10.0.0.5/b7b897efbb5b21ce42bf212fde0af45a/?page=php://filter/convert.base64-encode/resource=index
+
+I found interesting file 'secret.php' at php include method.Now i have to check this file. Bingo! I found flags when i convert this file to plain text from base64.
+BCTF{LFI_sOurce_c0de_w!th_pHp://f1lt3r}
+
