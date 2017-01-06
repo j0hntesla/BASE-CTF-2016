@@ -1,0 +1,9 @@
+Web 5 Challenge
+++++++++++++++++
+I see Login form in main page and i test with sql injection method.i found Sql error in Post method.So i start inject with sql login bypass method.
+
+username=admin&password='or'1'='1 -- -
+
+
+Yeah i got flags BCTF{SqL_L0gin_BypaSs_e@sy}
+
