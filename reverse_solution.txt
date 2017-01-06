@@ -1,0 +1,5 @@
+Reversing 1
+++++++++++++
+
+I checked the given file.It is window plaform executable format.So i tested with strings command and find the flags.
+BCTF{Basic_C_pr0gramming_langu@ge}
