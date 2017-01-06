@@ -1,0 +1,6 @@
+Pwn 1 Challenge
+++++++++++++++++
+I connect ssh port with given ip address,port,username and password.I look at pwn1 directory with ls command.I found 'not_for_sale' folder.then I entered and found nothing except haha.txt :( .I think flag can be hidden in that directory.I just test with ls -al command.
+Hmmm ! nothing happened. I came back to the home directory and find flag step by step directory.
+Oh! i saw hidden one.I try to open it.
+Bingo ! i got flag BCTF{Simple_hidd3n_pWn}
