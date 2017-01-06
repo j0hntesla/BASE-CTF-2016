@@ -1,0 +1,6 @@
+Misc 1 Challenge
++++++++++++++++++
+
+I downloaded given zip file and extract it.Oh ! alot of txt files in 'findme' folder.I can't check one by one file.So I know that if there is a flag,file size will increase because most files are blank.
+finally i got flag in 255_bctf.txt (29 bytes) file.
+BCTF{Easy_To_find_me_hacker}
